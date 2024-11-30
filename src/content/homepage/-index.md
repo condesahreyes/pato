@@ -1,8 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "PATO WEB"
+  content: "Define el aspecto visual de la marca, “todo lo que se ve”. La empresa tiene una identidad gráfica propia cuando identificamos fácilmente su presencia y la relacionamos con un logotipo / color / tipografía.
+
+Nos lleva a trabajar con el 𝐁𝐫𝐚𝐧𝐝𝐢𝐧𝐠:
+Fortalece la marca ya existente, sumando a la identidad gráfica sentimientos y experiencias que el público genera con la empresa.
+"
   image: "/images/banner.png"
   button:
     enable: true
